@@ -6,7 +6,7 @@ public class Objective7Lab4 {
 			System.out.println(sum);
 
 			counter = counter + 1;
-			sum = counter + sum;
+			sum = counter + sum; 
 
 		}
 	}
