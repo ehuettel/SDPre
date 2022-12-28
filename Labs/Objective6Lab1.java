@@ -61,6 +61,8 @@ Works very nice. */
 		  default:
 		  	System.out.println("That is not a valid month.");
 		  	break;
+				
+		keyboard.close();
 
 
 		}
